@@ -1,0 +1,10 @@
+updated date
+web parsing for up to date win rates
+automatic logging for user?
+position,champion logging
+	do automatically by clicking heatmap algo?
+finish tips
+... some other stuff i cant remember
+
+
+close files - receives list of file pointers and closes all of them

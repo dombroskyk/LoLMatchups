@@ -1,0 +1,762 @@
+{
+	"Aatrox" : {
+		"id" : 266,
+		"strong" : [
+			"Cho'Gath",
+			"Malphite",
+			"Nasus",
+			"Rumble",
+			"Shen",
+			"Zed",
+			"Ashe"
+		],
+		"skill" : [
+			"Akali",
+			"Irelia",
+			"Jax",
+			"Nidalee",
+			"Singed",
+			"Vladimir",
+			"Zac"
+		],
+		"weak" : [
+			"Darius",
+			"Elise",
+			"Jayce",
+			"Kennen",
+			"Renekton"
+		]
+	},
+	"Ahri" : {
+		"id" : 103,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Akali" : {
+		"id" : 84,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Alistar" : {
+		"id" : 12,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Amumu" : {
+		"id" : 32,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Anivia" : {
+		"id" : 34,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Annie" : {
+		"id" : 1,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Ashe" : {
+		"id" : 22,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Azir" : {
+		"id" : 268,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Blitzcrank" : {
+		"id" : 53,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Brand" : {
+		"id" : 63,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Braum" : {
+		"id" : 201,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Caitlyn" : {
+		"id" : 51,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Cassiopeia" : {
+		"id" : 69,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Cho'Gath" : {
+		"id" : 31,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Corki" : {
+		"id" : 42,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Darius" : {
+		"id" : 122,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Diana" : {
+		"id" : 131,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Dr. Mundo" : {
+		"id" : 36,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Draven" : {
+		"id" : 119,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Elise" : {
+		"id" : 60,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Evelynn" : {
+		"id" : 28,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Ezreal" : {
+		"id" : 81,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Fiddlesticks" : {
+		"id" : 9,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Fiora" : {
+		"id" : 114,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Fizz" : {
+		"id" : 105,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Galio" : {
+		"id" : 3,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Gangplank" : {
+		"id" : 41,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Garen" : {
+		"id" : 86,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Gnar" : {
+		"id" : 150,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Gragas" : {
+		"id" : 79,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Graves" : {
+		"id" : 104,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Hecarim" : {
+		"id" : 120,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Heimerdinger" : {
+		"id" : 74,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Irelia" : {
+		"id" : 39,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Janna" : {
+		"id" : 40,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Jarvan IV" : {
+		"id" : 59,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Jax" : {
+		"id" : 24,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Jayce" : {
+		"id" : 126,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Jinx" : {
+		"id" : 222,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Kalista" : {
+		"id" : 429,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Karma" : {
+		"id" : 43,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Karthus" : {
+		"id" : 30,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Kassadin" : {
+		"id" : 38,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Katarina" : {
+		"id" : 55,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Kayle" : {
+		"id" : 10,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Kennen" : {
+		"id" : 85,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Kha'Zix" : {
+		"id" : 121,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Kog'Maw" : {
+		"id" : 96,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"LeBlanc" : {
+		"id" : 7,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Lee Sin" : {
+		"id" : 64,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Leona" : {
+		"id" : 89,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Lissandra" : {
+		"id" : 127,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Lucian" : {
+		"id" : 236,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Lulu" : {
+		"id" : 117,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Lux" : {
+		"id" : 99,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Malphite" : {
+		"id" : 54,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Malzahar" : {
+		"id" : 90,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Maokai" : {
+		"id" : 57,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Master Yi" : {
+		"id" : 11,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Miss Fortune" : {
+		"id" : 21,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Mordekaiser" : {
+		"id" : 82,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Morgana" : {
+		"id" : 25,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Nami" : {
+		"id" : 267,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Nasus" : {
+		"id" : 75,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Nautilus" : {
+		"id" : 111,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Nidalee" : {
+		"id" : 76,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Nocturne" : {
+		"id" : 56,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Nunu" : {
+		"id" : 20,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Olaf" : {
+		"id" : 2,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Orianna" : {
+		"id" : 61,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Pantheon" : {
+		"id" : 80,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Poppy" : {
+		"id" : 78,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Quinn" : {
+		"id" : 133,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Rammus" : {
+		"id" : 33,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Rek'Sai" : {
+		"id" : 421,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Renekton" : {
+		"id" : 58,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Rengar" : {
+		"id" : 107,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Riven" : {
+		"id" : 92,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Rumble" : {
+		"id" : 68,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Ryze" : {
+		"id" : 13,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Sejuani" : {
+		"id" : 113,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Shaco" : {
+		"id" : 35,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Shen" : {
+		"id" : 98,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Shyvana" : {
+		"id" : 102,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Singed" : {
+		"id" : 27,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Sion" : {
+		"id" : 14,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Sivir" : {
+		"id" : 15,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Skarner" : {
+		"id" : 72,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Sona" : {
+		"id" : 37,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Soraka" : {
+		"id" : 16,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Swain" : {
+		"id" : 50,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Syndra" : {
+		"id" : 134,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Talon" : {
+		"id" : 91,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Taric" : {
+		"id" : 44,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Teemo" : {
+		"id" : 17,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Thresh" : {
+		"id" : 412,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Tristana" : {
+		"id" : 18,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Trundle" : {
+		"id" : 48,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Tryndamere" : {
+		"id" : 23,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Twisted Fate" : {
+		"id" : 4,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Twitch" : {
+		"id" : 29,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Udyr" : {
+		"id" : 77,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Urgot" : {
+		"id" : 6,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Varus" : {
+		"id" : 110,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Vayne" : {
+		"id" : 67,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Veigar" : {
+		"id" : 45,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Vel'Koz" : {
+		"id" : 161,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Vi" : {
+		"id" : 254,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Viktor" : {
+		"id" : 112,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Vladimir" : {
+		"id" : 8,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Volibear" : {
+		"id" : 106,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Warwick" : {
+		"id" : 19,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Wukong" : {
+		"id" : 62,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Xerath" : {
+		"id" : 101,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Xin Zhao" : {
+		"id" : 5,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Yasuo" : {
+		"id" : 157,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Yorick" : {
+		"id" : 83,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Zac" : {
+		"id" : 154,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Zed" : {
+		"id" : 238,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Ziggs" : {
+		"id" : 115,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Zilean" : {
+		"id" : 26,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	},
+	"Zyra" : {
+		"id" : 143,
+		"strong" : [],
+		"skill" : [],
+		"weak" : []
+	}
+}

@@ -1,0 +1,62 @@
+{
+	"Ezreal": {
+		"Graves": "2/3"
+	}, 
+	"Graves": {
+		"Kalista": "0/1", 
+		"Corki": "1/1", 
+		"Sivir": "0/1", 
+		"Jinx": "1/1", 
+		"Lucian": "1/1", 
+		"Caitlyn": "1/1"
+	}, 
+	"Ashe": {
+		"Varus": "1/1", 
+		"Caitlyn": "1/1"
+	}, 
+	"Karma": {
+		"Nami": "3/3", 
+		"Leona": "1/1", 
+		"Sona": "1/1", 
+		"Thresh": "4/4", 
+		"Braum": "1/1", 
+		"Morgana": "1/1", 
+		"Janna": "0/1"
+	}, 
+	"Ryze": {
+		"Yasuo": "1/1"
+	}, 
+	"Olaf": {
+		"Trundle": "0/1"
+	}, 
+	"Malzahar": {
+		"Yasuo": "1/1"
+	}, 
+	"Leona": {
+		"Lux": "0/1"
+	}, 
+	"Jinx": {
+		"Kog'Maw": "0/1", 
+		"Corki": "0/1", 
+		"Vayne": "1/3"
+	}, 
+	"Lissandra": {
+		"Ezreal": "1/1"
+	}, 
+	"Nasus": {
+		"Rek'Sai": "0/1", 
+		"Master Yi": "1/1"
+	}, 
+	"Warwick": {
+		"Lee Sin": "1/1"
+	}, 
+	"Thresh": {
+		"Nami": "0/1"
+	}, 
+	"Anivia": {
+		"Nidalee": "0/1"
+	}, 
+	"Caitlyn": {
+		"Ashe": "0/1"
+	}
+}
